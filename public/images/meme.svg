@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#1e1e2f"/>
+  <rect x="100" y="100" width="824" height="600" fill="#2a2a40" rx="20"/>
+  <text x="512" y="250" font-family="Impact, Arial Black, sans-serif" font-size="80" fill="white" text-anchor="middle" font-weight="bold">WHEN THE AI API</text>
+  <text x="512" y="650" font-family="Impact, Arial Black, sans-serif" font-size="80" fill="white" text-anchor="middle" font-weight="bold">IS RATE LIMITED</text>
+  <text x="512" y="450" font-family="Arial" font-size="120" fill="white" text-anchor="middle">😑</text>
+  <text x="512" y="850" font-family="Arial" font-size="40" fill="#a0a0b0" text-anchor="middle">Stored Meme Category</text>
+</svg>

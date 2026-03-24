@@ -1,0 +1,8 @@
+com\example\demo\controller\ImageGenerationController.class
+com\example\demo\config\Config.class
+com\example\demo\DemoApplication.class
+com\example\demo\dto\GenerationResponseDto.class
+com\example\demo\service\ImageGenerationService.class
+com\example\demo\config\RestTemplateConfig.class
+com\example\demo\dto\GenerationRequestDto.class
+com\example\demo\controller\GlobalExceptionHandler.class

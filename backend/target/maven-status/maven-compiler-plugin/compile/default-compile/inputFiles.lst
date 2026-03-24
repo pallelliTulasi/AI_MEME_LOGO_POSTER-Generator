@@ -1,0 +1,8 @@
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\config\Config.java
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\config\RestTemplateConfig.java
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\controller\GlobalExceptionHandler.java
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\controller\ImageGenerationController.java
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\DemoApplication.java
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\dto\GenerationRequestDto.java
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\dto\GenerationResponseDto.java
+E:\AI-Meme-Logo generator\backend\src\main\java\com\example\demo\service\ImageGenerationService.java
